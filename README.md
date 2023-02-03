@@ -12,7 +12,7 @@ Full stack developer**
 ## Projects
 
 ### Hospital Managament System app
-- Designed and developed a [Hospital Management System](https://mehrshifo.uz) using the MERN stack
+- Designed and developed a Hospital Management System using the MERN stack
 - Implemented responsive design and ensured cross-browser compatibility for both the application and website, providing a seamless experience for users on different devices
 - Worked closely with clients to understand their requirements and provided regular updates on project progress, resulting in positive feedback and client satisfaction
 - Built a website for non-users to access information about the Hospital, improving visibility and outreach
@@ -20,8 +20,6 @@ Full stack developer**
 - Integrated secure authentication and authorization for different user roles in the application, ensuring data security for patients and medical personnel
 - Utilized MongoDB to store and retrieve patient information, appointments, and medical records in the application, reducing manual errors and improving data accuracy
 - Developed an admin panel for the Hospital Management System, allowing for easy management and control of the application's data and functionality
-
-## Projects
 
 ### Personal website
 - Built a personal website to showcase skills and portfolio 
